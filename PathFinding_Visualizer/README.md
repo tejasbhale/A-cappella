@@ -1,7 +1,5 @@
 ## PathFinding Visualizer
 
-![Screenshot](Screenshot 2021-08-06 023920.jpg)
-
 ### A program built in Python using Pygame to visualize Dijkstra's algorithm 
 
 #### The size of the grid is 640 X 480 (width X height) pixels 
