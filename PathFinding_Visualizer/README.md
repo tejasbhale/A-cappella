@@ -1,6 +1,6 @@
 ## PathFinding Visualizer
 
-![alt text](https://paste.pics/DFWA3)
+![alt text](https://ibb.co/hK0gFCj)
 
 ### A program built in Python using Pygame to visualize Dijkstra's algorithm 
 
