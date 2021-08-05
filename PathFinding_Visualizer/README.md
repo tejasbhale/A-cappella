@@ -1,28 +1,16 @@
 ## PathFinding Visualizer
 
-## VIDEO DEMO - [Microsoft Teams Clone - Video Demo](https://youtu.be/TbdOseTyE_k)
+![alt text](https://paste.pics/DFWA3)
 
-![alt text](https://i.ibb.co/bvBX0d5/Screenshot-519.png)
+### A program built in Python using Pygame to visualize Dijkstra's algorithm 
 
-## Architecture 
+#### The size of the grid is 640 X 480 (width X height) pixels 
 
-#### The index.js file contains all the back-end functionality. 
+#### 
 
-#### Inside the client folder which contains all the front-end functionality - >
-
-1. The **public folder** has an **index.html** file which is the basic skeleton of the web application.
-2. The **src folder** contains ->
-    1. App.js - Integrates all the components into a web app.
-    1. index.js - Renders the App.js file.
-    1. SocketContext.js - Contains all the socket logic pertaining to the video calling feature.
-    1. styles.css - Custom stylesheet for index.js.
-    1. Components folder ->
-        1. AlertDialog.jsx - Alert dialog box component.
-        1. CallOptions.jsx - Call options card component. 
-        1. ChatDrawer.jsx - Chat Drawer Component. 
-        1. EmailDialog.jsx - Email Dialog box component. 
-        1. VideoGrid.jsx - Video Player component. 
-        1. scrollbar.css - Custom redesigned scroll bar stylesheet.
-      
-#### WEBAPP LINK - [Microsoft Teams Clone](https://temsclone.netlify.app/)
+1. The start point is coloured cyan whereas end point is coloured blue and they are fixed in the code
+2. A wall can be drawn by left clicking and moving the mouse over the grid
+3. The wall can be deleted by right clicking over it
+4. Once the user is set to visualize, the enter button should be pressed and the algorithm starts working and visualizing!
+   
       
