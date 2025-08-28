@@ -1,4 +1,4 @@
-## PathFinding Visualizer
+## PathFind
 
 ### A program built in Python using Pygame to visualize Dijkstra's algorithm 
 
